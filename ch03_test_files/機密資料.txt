@@ -1,0 +1,3 @@
+這是一份模擬的機密檔案，用來測試 .claudeignore 是否正常運作。
+
+如果 Claude Code 能讀到這份檔案的內容，表示你的 .claudeignore 設定還沒生效。

@@ -1,0 +1,5 @@
+這是一份普通的文件，不在 .claudeignore 的排除規則裡。
+
+如果你的 .claudeignore 設定正確，Claude Code 應該：
+✓ 能讀到這份檔案
+✗ 讀不到同資料夾裡的 .env、機密資料.txt、password_list.txt
