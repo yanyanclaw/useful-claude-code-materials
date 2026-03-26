@@ -10,9 +10,9 @@
 
 | 資料夾 | 對應章節 | 內容 |
 |--------|----------|------|
-| ch02_downloads/ | 第二章 | 模擬電腦下載資料夾（各種混亂的檔案） |
-| ch02_images/ | 第二章 | 5 張 AI 產生的假照片（整理練習用） |
-| ch03_test_files/ | 第三章 | 安全性測試用檔案 |
+| 測試素材/ch02_downloads/ | 第二章 | 模擬電腦下載資料夾（各種混亂的檔案） |
+| 測試素材/ch02_images/ | 第二章 | 5 張 AI 產生的假照片（整理練習用） |
+| 測試素材/ch03_test_files/ | 第三章 | 安全性測試用檔案 |
 
 ## 這本書適合我嗎？
 
@@ -23,8 +23,16 @@
 - 試過 ChatGPT 覺得不夠用，想要 AI 能直接幫你操作電腦
 - 不會寫程式，但想讓 AI 幫你寫腳本、自動化流程
 
-## 授權
-
-本書採用 [CC BY-NC-ND 4.0](https://creativecommons.org/licenses/by-nc-nd/4.0/) 授權。
+## 授權 / License
 
 © 2026 yan. All rights reserved.
+
+本書及其所有內容（包括但不限於文字、圖片、程式碼範例、測試素材）均受著作權法保護。未經作者書面授權，禁止以任何形式複製、轉載、改作、散布或用於商業用途。
+
+個人學習用途可下載測試素材跟著書中步驟操作，但不得將本書內容重新發布或用於製作衍生作品。
+
+---
+
+All contents of this book, including but not limited to text, images, code examples, and test materials, are protected by copyright law. No part of this publication may be reproduced, distributed, modified, or used for commercial purposes without prior written permission from the author.
+
+Test materials may be downloaded for personal learning purposes to follow along with the book's exercises, but the content of this book may not be republished or used to create derivative works.
