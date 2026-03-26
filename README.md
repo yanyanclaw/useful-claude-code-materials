@@ -4,9 +4,10 @@
 
 ## 測試素材
 
-書中每章的實作練習都會用到測試素材，已經放在這個 repo 裡對應的資料夾中。下載方式：
+書中每章的實作練習都會用到測試素材，下載方式（擇一）：
 
-點綠色的「Code」按鈕，選「Download ZIP」，解壓縮後把整個資料夾丟到你的 AI Space 裡面。
+- **GitHub**：點綠色的「Code」按鈕，選「Download ZIP」，解壓縮後把 `測試素材` 資料夾丟到你的 AI Space 裡面。
+- **Google Drive**：[點此下載](https://drive.google.com/drive/u/1/folders/1xjxBePtpao0mX9aJYIodtr1ccWpOvTyN)
 
 | 資料夾 | 對應章節 | 內容 |
 |--------|----------|------|
